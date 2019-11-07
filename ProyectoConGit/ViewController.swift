@@ -16,5 +16,8 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func btnTapped(_ sender: Any) {
+        print("funciona!!!!")
+    }
 }
 
